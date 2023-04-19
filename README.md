@@ -12,4 +12,4 @@
 - `Objetivos 2`: trabalhar a saúde mental.
 - `Objetivos 3`: diversão para as crianças.
 
-|[<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Adriele Castro Silva</sub>](https://github.com/AdrieleCast)|
+|[<img src="https://github.com/account><br><sub>Adriele Castro Silva</sub>](https://github.com/AdrieleCast)|
