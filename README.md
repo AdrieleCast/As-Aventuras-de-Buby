@@ -12,9 +12,6 @@
 - `Objetivos 2`: trabalhar a saúde mental.
 - `Objetivos 3`: diversão para as crianças.
 
-# Autores
+# Autor
 | [<img src="https://user-images.githubusercontent.com/104026202/233195212-627393af-5dac-4543-aa1a-e7f8afedc119.png" width="115"><br><sub>Adriele Castro Silva</sub>](https://github.com/AdrieleCast) | 
-| ![imagem](https://user-images.githubusercontent.com/104026202/233197492-16ec7767-f200-4ac6-b981-489d54a47fa6.png" width="115")
-<br><sub>Thaynara Martins Brito</sub>](https://github.com/thaynarabrito) |
-|:---:||:---:|
- 
+|:---:|
