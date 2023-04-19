@@ -13,6 +13,6 @@
 - `Objetivos 3`: diversão para as crianças.
 
 # Autor
-| [<img src="https://user-images.githubusercontent.com/104026202/233195212-627393af-5dac-4543-aa1a-e7f8afedc119.png" width="115"><br><sub>Adriele Castro Silva</sub>](https://github.com/AdrieleCast) | ![Giovanna](https://user-images.githubusercontent.com/104026202/233207446-8818f660-0fba-46ac-a203-9b24f7d21846.jpg)
+| [<img src="https://user-images.githubusercontent.com/104026202/233195212-627393af-5dac-4543-aa1a-e7f8afedc119.png" width="115"><br><sub>Adriele Castro Silva</sub>](https://github.com/AdrieleCast) | 
 |:---:| 
 
