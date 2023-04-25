@@ -1,0 +1,33 @@
+@charset "UTF-8";
+body {
+  background-image: url(/animações/fundof1.gif);
+  background-color: #3adacc;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: fixed;
+}
+
+h1 {
+  color: red;
+}
+
+.img-placa {
+  width: 750px;
+  height: 400px;
+  margin-left: 50px;
+  position: fixed;
+}
+
+.img-pobelha {
+  width: 250px;
+  height: 250px;
+  margin-top: 500px;
+}
+
+.img-flores {
+  width: 1450px;
+  height: 900px;
+  margin-top: 39px;
+  margin-left: -80px;
+  position: fixed
+}
