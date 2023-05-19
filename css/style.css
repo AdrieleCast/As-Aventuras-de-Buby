@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body {
-  background-image: url(/animações/fundof1\ \(1\).gif);
+  background-image: url(/animações/fundof1.gif);
   background-color: #3adacc;
   background-repeat: no-repeat;
   background-size: cover;
@@ -31,3 +31,4 @@ h1 {
   margin-left: -80px;
   position: fixed
 }
+
