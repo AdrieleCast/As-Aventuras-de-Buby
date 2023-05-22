@@ -15,8 +15,8 @@
 # Autores
 | [<img src="https://user-images.githubusercontent.com/104026202/233195212-627393af-5dac-4543-aa1a-e7f8afedc119.png" width="115"><br><sub>Adriele Castro Silva</sub>](https://github.com/AdrieleCast) |  
 |:---:|
-| [<img src="C:\Users\IFTM\Downloads\GIH.jpg" width="115"><br><sub>Giovanna Passsos</sub>](https://github.com/AdrieleCast) |
-| [<img src="https://user-images.githubusercontent.com/104026202/233195212-627393af-5dac-4543-aa1a-e7f8afedc119.png" width="115"><br><sub>Thaynara Martins de Brito</sub>](https://github.com/AdrieleCast) |
+| [<img src=""><br><sub>Giovanna Passsos</sub>](https://github.com/AdrieleCast) |
+| [<img src="" width="115"><br><sub>Thaynara Martins de Brito</sub>](https://github.com/AdrieleCast) |
 
 
 
