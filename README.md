@@ -13,6 +13,9 @@
 - `Objetivos 3`: diversão para as crianças.
 
 # Autores
+| [<img src="https://user-images.githubusercontent.com/104026202/233195212-627393af-5dac-4543-aa1a-e7f8afedc119.png" width="115"><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Giovanna Passsos</sub>](https://github.com/guilhermeonrails) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Thaynara Martins de Brito</sub>](https://github.com/alexfelipe) |
+| :---: | :---: | :---: |
+
 | [<img src="https://user-images.githubusercontent.com/104026202/233195212-627393af-5dac-4543-aa1a-e7f8afedc119.png" width="115"><br><sub>Adriele Castro Silva</sub>](https://github.com/AdrieleCast) |  
 |:---:|
 | [<img src=""><br><sub>Giovanna Passsos</sub>](https://github.com/AdrieleCast) |
